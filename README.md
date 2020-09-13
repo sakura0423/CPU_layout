@@ -1,7 +1,7 @@
 # Computer Organization and Design
 
 ## Intro
-Lab in 2018 autumn, any questions please contact QQ :121295866
+Lab in 2018 autumn
 
 ## Content
 
